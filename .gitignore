@@ -1,0 +1,12 @@
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# CRITICAL: Ignore Environment variables and keys
+.env
+.env.local
+api_keys.txt
