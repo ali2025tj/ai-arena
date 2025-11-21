@@ -17,5 +17,5 @@ This system doesn't just compare speed; it uses an "LLM-as-a-Judge" (GPT-4 Turbo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ai-arena.git
+   git clone https://github.com/ali2025tj/ai-arena.git
    cd ai-arena
