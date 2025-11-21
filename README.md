@@ -1,4 +1,4 @@
-# ⚔️ The AI Arena: GPT-4 vs Gemini
+# ⚔️ The AI Arena: GPT vs Gemini
 
 A fully automated, dynamic framework to pit Large Language Models (LLMs) against each other in logic and math battles. 
 
